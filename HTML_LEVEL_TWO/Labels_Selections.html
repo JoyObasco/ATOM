@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>Labels and Selections</title>
+  </head>
+  <body>
+
+  <h1>Event Feedback Form</h1>
+
+  <form method="get">
+    <h3>Did you travel Into Canada for the Event?</h3>
+
+    <label for="In"> Yes: </label>
+    <input id="In"type="radio" name="loc" value="In">
+
+    <label for="Out">No: </label>
+    <input id="Out" type="radio" name="loc" value="Out">
+
+    <h3>How will you rate the Event?</h3>
+    <select name="Stars">
+      <option value="3">Great</option>
+      <option value="2">Okay</option>
+      <option value="1">Bad</option>
+    </select>
+
+    <h3>Any Other Feedback?</h3>
+    <textarea name="Feedback" rows="8" cols="80"></textarea>
+
+    <input type="submit" name="" value="Submit">
+  </form>
+  </body>
+</html>
