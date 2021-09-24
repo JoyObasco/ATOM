@@ -1,0 +1,28 @@
+.DivOne{
+  color: rgba(155, 90, 119, 1);
+}
+.DivTwo{
+  color: rgba(50, 100, 70, 1);
+}
+
+#outlier{
+  color: #ff0000;
+  text-decoration: underline;
+}
+
+/* *{
+  color: purple;
+} */
+
+h3 + ul{
+  border: 5px solid yellow;
+}
+
+li a{
+  color: blue;
+}
+
+li a[href="https://www.geeksforgeeks.org/"]{
+  color: green;
+  border: 2px dotted orange;
+}
