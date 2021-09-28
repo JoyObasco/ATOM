@@ -1,4 +1,4 @@
-# ATOM is a journey following my love and desire to learn programming. 
+# ATOM is a journey of my love and desire to learn programming. 
 
 Getting time is sometimes hard but it has always been my believe that you make time for the things and people you love.
 
